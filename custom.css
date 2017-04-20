@@ -2,12 +2,13 @@
     background: linear-gradient( rgba(47, 252, 224, 0.5), rgba(255, 255, 255, 1)), url('img/balloon-2.jpg') no-repeat center fixed;
     background-size: cover;
     text-align: center;
+    
    
 }
 
 h1,h2 {
-    color:white;
-    font-family:
+    color:navy;
+    font-family:arial;
 }
 
 .navbar {
@@ -17,4 +18,8 @@ h1,h2 {
   .carousel-inner > .item > a > img {
       width: 70%;
       margin: auto;
+  }
+  
+  .quote-container{
+      background:lightblue;
   }
